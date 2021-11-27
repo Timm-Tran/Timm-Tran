@@ -2,7 +2,7 @@
 - 👀 I’m interested in Security, Artificial Intelligence, and fitness
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on networking
-- 📫 How to reach me here or linkedin
+- 📫 How to reach me here or linkedin.com/in/timmethy-tran
 
 <!---
 Timm-Tran/Timm-Tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
